@@ -1,4 +1,4 @@
-# counter--javascript
+## counter--javascript
 
 It Works with every positive number including prime numbers
 
